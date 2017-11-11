@@ -1,0 +1,5 @@
+use alienfile;
+
+plugin 'PkgConfig' => (
+  pkg_name => 'glfw3',
+);

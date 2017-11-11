@@ -1,0 +1,6 @@
+Revision history for Alien-GLFW
+
+0.01    2017-11-11 16:00:47-05:00
+        Initial commit of Alien::GLFW by module-starter
+        Probe only alienfile (installation to come)
+
